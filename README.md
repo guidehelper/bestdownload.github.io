@@ -1,3 +1,4 @@
-# SIMPLE landing page
+# BestDownload
 
-SIMPLE is a clean, responsive html landing page for general use.
+Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime .<br />
+Download the best games and apps on BestDownload! Find, download and share APKs for Android on our community driven platform.
